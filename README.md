@@ -4,7 +4,6 @@ A new Flutter project.
 
 ## Screenshots
 
-
-![WhatsApp Image 2023-08-14 at 9 03 28 PM (1)](https://github.com/itsRamit/Chating_App_UI/assets/127865288/52c94ab4-e777-4de7-a335-512a03226207)
-![WhatsApp Image 2023-08-14 at 9 03 29 PM](https://github.com/itsRamit/Chating_App_UI/assets/127865288/16dd2336-1046-43ed-a3dc-d6294d884475)
-![WhatsApp Image 2023-08-14 at 9 03 28 PM (1)1](https://github.com/itsRamit/Chating_App_UI/assets/127865288/43a1c516-4cd7-46a8-b55c-13f3166d3baf)
+![WhatsApp Image 2023-08-14 at 10 31 28 PM (1)](https://github.com/itsRamit/Chating_App_UI/assets/127865288/82face23-d539-4ed8-b9f6-f289254c4e67)
+![WhatsApp Image 2023-08-14 at 10 30 39 PM](https://github.com/itsRamit/Chating_App_UI/assets/127865288/05f8df21-e0a6-44fb-8d92-ae564e14cace)
+![WhatsApp Image 2023-08-14 at 10 33 43 PM (1)](https://github.com/itsRamit/Chating_App_UI/assets/127865288/c2a327ed-0ffe-402e-9fa2-36d112cda2d2)
