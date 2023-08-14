@@ -1,6 +1,6 @@
 # Chating_App_UI
 
-A new Flutter project.
+Created a UI of chatting App using flutter.
 
 ## Screenshots
 
